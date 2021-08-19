@@ -1,3 +1,4 @@
+![alt text](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)
 ### Hi there 👋
 
 <!--
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![alt text](https://assets.pinterest.com/ext/embed.html?id=639440847096197367)
-![alt text](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)
+
 
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=639440847096197367" height="336" width="236" frameborder="0" scrolling="no" ></iframe>
 
