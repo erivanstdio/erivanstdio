@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align = "center">Hello World, I'm Erivan Brunno.</h2>
-<p>
+<h2 align = "center"><img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="200" title="code" align="right">
+Hello World, I'm Erivan Brunno.</h2>
+
+
+  
 <p align="center">
 
   <a href=https://www.linkedin.com/in/erivanbrunno->
@@ -25,12 +28,6 @@ Here are some ideas to get you started:
   
   <h3>Currently working on hybrid mobile tecnologies, such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/> lib. ⚛️💙</h3>
   <p>Constant learner, always trying to improve!</p>
-
-</p>
-
-  <p align="right">
-    <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="200" title="code">
-  </p>
 
 </p>
 
