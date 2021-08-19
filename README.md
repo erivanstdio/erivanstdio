@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erivanstdio&layout=compact&theme=gruvbox" style="max-width:100%;" width="300"></a>
+  <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erivanstdio&layout=compact&theme=gruvbox" style="max-width:100%;" width="300"></a><br/>
   <p align="center">
 <img src="https://img.shields.io/badge/HTML5-739866?style=for-the-badge&logo=html5&logoColor=red" alt="HTML5"/><img src="https://img.shields.io/badge/CSS3-739866?&style=for-the-badge&logo=css3&logoColor=purple" alt="CSS3"/><img src="https://img.shields.io/badge/JavaScript-739866?&style=for-the-badge&logo=JavaScript&logoColor=orange" alt="HTML5"/><img src="https://img.shields.io/badge/TypeScript-739866?&style=for-the-badge&logo=TypeScript&logoColor=blue" alt="TypeScript"/>
 </p>
