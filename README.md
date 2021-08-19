@@ -24,7 +24,7 @@ Hello World, I'm Erivan Brunno.</h2>
     <img src="https://img.shields.io/badge/LinkedIn-fabd2f?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/>
   </a>
   
-  <h4>Currently working on hybrid mobile tecnologies, such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" alt="React Native"/> lib. ⚛️💙</43>
+  <h4>Currently working on hybrid mobile tecnologies, such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" alt="React Native"/> lib. ⚛️💙</h4>
   <p>Constant learner, always trying to improve!</p>
 
 </p>
@@ -36,5 +36,5 @@ Hello World, I'm Erivan Brunno.</h2>
 <img src="https://img.shields.io/badge/HTML5-739866?style=for-the-badge&logo=html5&logoColor=red" alt="HTML5"/><img src="https://img.shields.io/badge/CSS3-739866?&style=for-the-badge&logo=css3&logoColor=purple" alt="CSS3"/><img src="https://img.shields.io/badge/JavaScript-739866?&style=for-the-badge&logo=JavaScript&logoColor=orange" alt="HTML5"/><img src="https://img.shields.io/badge/TypeScript-739866?&style=for-the-badge&logo=TypeScript&logoColor=blue" alt="TypeScript"/>
 </p>
 <p align="center">
-<h5>📫 email: erivanstdio@gmail.com<h5>
+  <h5>📫 email: erivanstdio@gmail.com<h5>
 <p/>
