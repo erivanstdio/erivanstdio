@@ -25,7 +25,7 @@ Hello World, I'm Erivan Brunno.</h2>
   </a>
   
   <h4 align="center">Currently working on hybrid mobile tecnologies, such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" alt="React Native"/> lib. ⚛️💙</h4>
-  <p align="center">Constant learner, always trying to improve!</p>
+  <h5 align="center">Constant learner, always trying to improve!</h5>
 
 </p>
 
@@ -37,5 +37,5 @@ Hello World, I'm Erivan Brunno.</h2>
 
 </p>
 <p align="center">
-  <h5>📫 email: erivanstdio@gmail.com<h5>
+  <h5 align="center">📫 email: erivanstdio@gmail.com<h5>
 <p/>
