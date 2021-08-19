@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
 
   <a href=https://www.linkedin.com/in/erivanbrunno>
-    <img src="https://img.shields.io/badge/LinkedIn-fabd2f?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-fabd2f?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
   </a>
   
   <h4 align="center">Currently working on hybrid mobile tecnologies,<br/>such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" alt="React Native"/> lib.</h4>
