@@ -1,4 +1,5 @@
 ### Hi there 👋
+![alt text](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)
 
 <!--
 **erivanstdio/erivanstdio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +18,6 @@ Here are some ideas to get you started:
 
 
 <h2 align = "center">Hello World, I'm Erivan Brunno.</h1>
-![alt text](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)
 
 <p align="center">
 <p>Currently working on hybrid mobile tecnologies, such as projects using React Native lib. ⚛️<p>
