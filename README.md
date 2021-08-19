@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2><img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="300" title="code" align="right">
+<h2><img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="300" height="500" title="code" align="right">
 <h2 align = "center">Hello World, I'm Erivan Brunno.</h2>
 
 
