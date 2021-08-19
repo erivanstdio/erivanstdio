@@ -16,19 +16,28 @@ Here are some ideas to get you started:
 -->
 
 <h2 align = "center">Hello World, I'm Erivan Brunno.</h2>
+<p>
 <p align="center">
+
+  <a href=https://www.linkedin.com/in/erivanbrunno->
+    <img src="https://img.shields.io/badge/LinkedIn-fabd2f?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/>
+  </a>
+  
   <p>Currently working on hybrid mobile tecnologies, such as projects using React Native lib. ⚛️</p>
   <p>Constant learner, always trying to improve!</p>
- 
-<p align="right">
-  <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="200" title="code">
+
+</p>
+
+<p>
+  
+  <p align="right">
+    <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="200" title="code">
+  </p>
+
 </p>
 </p>
-<a href=https://www.linkedin.com/in/erivanbrunno->
-  <img src="https://img.shields.io/badge/LinkedIn-fabd2f?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/>
-</a>
 <p align="center">
-  <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erivanstdio&layout=compact&theme=gruvbox" style="max-width:100%;" width="300"></a>
+  <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/top-langs/?       username=erivanstdio&layout=compact&theme=gruvbox" style="max-width:100%;" width="300"></a>
 </p>
 <p align="center">
 <h5>📫 email: erivanstdio@gmail.com<h5>
