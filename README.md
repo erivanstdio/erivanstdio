@@ -24,7 +24,7 @@ Hello World, I'm Erivan Brunno.</h2>
     <img src="https://img.shields.io/badge/LinkedIn-fabd2f?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/>
   </a>
   
-  <h4>Currently working on hybrid mobile tecnologies, such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" alt="React Native"/> lib. ⚛️💙</h4>
+  <h4 align="center">Currently working on hybrid mobile tecnologies, such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" alt="React Native"/> lib. ⚛️💙</h4>
   <p>Constant learner, always trying to improve!</p>
 
 </p>
