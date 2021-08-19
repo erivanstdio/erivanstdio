@@ -36,6 +36,6 @@ Hello World, I'm Erivan Brunno.</h2>
 </p>
 
 </p>
-<p align="left">
-  <h5 align="center">📫 email: erivanstdio@gmail.com<h5>
+<p align="center">
+  <h5 align="left">📫 email: erivanstdio@gmail.com<h5>
 <p/>
