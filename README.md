@@ -23,8 +23,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-fabd2f?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/>
   </a>
   
-  <h4 align="center">Currently working on hybrid mobile tecnologies,</h4> 
-  <h4 align="center">such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" alt="React Native"/> lib. ⚛️💙</h4>
+  <h4 align="center">Currently working on hybrid mobile tecnologies,</h4><h4 align="center">such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" alt="React Native"/> lib. ⚛️💙</h4>
   <h5 align="center">Constant learner, always trying to improve!</h5>
 
 </p>
