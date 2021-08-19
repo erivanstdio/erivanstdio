@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <p>Constant learner, always trying to improve!</p>
  
 <p align="right">
-  <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="350" title="code">
+  <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="200" title="code">
 </p>
 </p>
 <a href=https://www.linkedin.com/in/erivanbrunno->
