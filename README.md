@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Currently working on hybrid mobile tecnologies, such as React Native.<p>
-<p>Constant learner, always trying to improve<p>
+<p>Currently working on hybrid mobile tecnologies, such as projects using React Native lib. ⚛️<p>
+<p>Constant learner, always trying to improve!<p>
+<h5>📫 email: erivanstdio@gmail.com<h5>
+<h5>🏢 linkedin: in/erivanbrunno<h5>
