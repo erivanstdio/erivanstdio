@@ -36,9 +36,11 @@ Here are some ideas to get you started:
 
 </p>
 </p>
+
 <p align="center">
   <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/top-langs/?       username=erivanstdio&layout=compact&theme=gruvbox" style="max-width:100%;" width="300"></a>
 </p>
+
 <p align="center">
 <h5>📫 email: erivanstdio@gmail.com<h5>
 <p/>
