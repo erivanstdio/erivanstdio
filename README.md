@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h2 align = "center">Hello World, I'm Erivan Brunno.</h2>
-![alt text](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)
 <p align="center">
-  
-  
-
-<p>Currently working on hybrid mobile tecnologies, such as projects using React Native lib. ⚛️<p>
-<p>Constant learner, always trying to improve!<p>
+  <p>Currently working on hybrid mobile tecnologies, such as projects using React Native lib. ⚛️</p>
+  <p>Constant learner, always trying to improve!</p>
+</p> 
+<p align="right">
+  <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="350" title="code">
+</p>
 
 <a href=https://www.linkedin.com/in/erivanbrunno->
   <img src="https://img.shields.io/badge/LinkedIn-fabd2f?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/>
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <h5>📫 email: erivanstdio@gmail.com<h5>
+<p/>
