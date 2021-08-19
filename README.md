@@ -37,7 +37,10 @@ Here are some ideas to get you started:
 <p align="center">
   <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erivanstdio&layout=compact&theme=gruvbox" style="max-width:100%;" width="300"></a>
 </p>
-
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-739866?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/><img src="https://img.shields.io/badge/CSS3-739866?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/><img src="https://img.shields.io/badge/JavaScript-739866?&style=for-the-badge&logo=JavaScript&logoColor=white" alt="HTML5"/>
+</p>
+<img src="{BadgeURLHere}" />
 <p align="center">
 <h5>📫 email: erivanstdio@gmail.com<h5>
 <p/>
