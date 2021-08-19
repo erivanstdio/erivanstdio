@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align = "center"><img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="350" title="code" align="right">
+<h2 align = "center"><img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="400" title="code" align="right">
 Hello World, I'm Erivan Brunno.</h2>
 
 
