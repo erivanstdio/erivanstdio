@@ -1,4 +1,3 @@
-![alt text](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)
 ### Hi there 👋
 
 <!--
@@ -15,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://assets.pinterest.com/ext/embed.html?id=639440847096197367)
 
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=639440847096197367" height="336" width="236" frameborder="0" scrolling="no" ></iframe>
+<h2 align = "center">Hello World, I'm Erivan Brunno.</h1>
+![alt text](https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)
 
-<h2 align = "center"><img src= "https://assets.pinterest.com/ext/embed.html?id=639440847096197367" width = 190px align = "right"/>Hello World, I'm Erivan Brunno.</h1>
 <p align="center">
 <p>Currently working on hybrid mobile tecnologies, such as projects using React Native lib. ⚛️<p>
 <p>Constant learner, always trying to improve!<p>
