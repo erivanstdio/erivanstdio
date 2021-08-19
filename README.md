@@ -28,13 +28,10 @@ Here are some ideas to get you started:
 
 </p>
 
-<p>
-  
   <p align="right">
     <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="200" title="code">
   </p>
 
-</p>
 </p>
 
 <p align="center">
