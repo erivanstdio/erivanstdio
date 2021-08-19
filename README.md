@@ -35,5 +35,5 @@ Hello World, I'm Erivan Brunno.</h2>
 <img src="https://img.shields.io/badge/HTML5-739866?style=for-the-badge&logo=html5&logoColor=red" alt="HTML5"/><img src="https://img.shields.io/badge/CSS3-739866?&style=for-the-badge&logo=css3&logoColor=purple" alt="CSS3"/><img src="https://img.shields.io/badge/JavaScript-739866?&style=for-the-badge&logo=JavaScript&logoColor=orange" alt="HTML5"/><img src="https://img.shields.io/badge/TypeScript-739866?&style=for-the-badge&logo=TypeScript&logoColor=blue" alt="TypeScript"/>
 </p>
 
-  <h5 align="left">📫 email: erivanstdio@gmail.com<h5>
+  <h5 align="center">📫 email: erivanstdio@gmail.com<h5>
 </p>
