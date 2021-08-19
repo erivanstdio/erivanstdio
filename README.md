@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <h2 align = "center"><img src= "https://i.pinimg.com/originals/5b/79/61/5b79617e87149ba691fed680cde2e5d3.gif" width = 190px align = "right"/>Hello World, I'm Erivan Brunno.</h1>
 <p align="center">
+<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
+<p align="center">
 <p>Currently working on hybrid mobile tecnologies, such as projects using React Native lib. ⚛️<p>
 <p>Constant learner, always trying to improve!<p>
 
