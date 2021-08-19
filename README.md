@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   </a>
   
   <h4 align="center">Currently working on hybrid mobile tecnologies,<br/>such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" alt="React Native"/> lib. ⚛️💙</h4>
-  <h5 align="center">Constant learner, always trying to improve!</h5>
-  <br/>
+  <h5 align="center">Constant learner, always trying to improve!<br/></h5>
+  
 </p>
 
 <p align="center">
