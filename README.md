@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href=https://www.linkedin.com/in/erivanbrunno->
+      <img src="https://img.shields.io/badge/LinkedIn-fabd2f?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/>
+ </a>ㅤ
 <p>Currently working on hybrid mobile tecnologies, such as projects using React Native lib. ⚛️<p>
 <p>Constant learner, always trying to improve!<p>
 <h5>📫 email: erivanstdio@gmail.com<h5>
-<h5>🏢 linkedin: in/erivanbrunno<h5>
