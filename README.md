@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=red" alt="HTML5"/><img src="https://img.shields.io/badge/CSS3-000?&style=for-the-badge&logo=css3&logoColor=purple" alt="CSS3"/><img src="https://img.shields.io/badge/JavaScript-000?&style=for-the-badge&logo=JavaScript&logoColor=yellow" alt="HTML5"/><img src="https://img.shields.io/badge/TypeScript-000?&style=for-the-badge&logo=TypeScript&logoColor=blue" alt="TypeScript"/>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erivanstdiof&show_icons=true&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erivanstdio&show_icons=true&theme=nightowl" />
 </a>
 
   <h5 align="center">📫 email: erivanstdio@gmail.com<h5>
