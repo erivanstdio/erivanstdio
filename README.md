@@ -1,4 +1,4 @@
-<h2><img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="380" height="480" title="code" align="right">
+<h2><img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="300" height="480" title="code" align="right">
 <h2 align = "center">Hello World, I'm Erivan Brunno.</h2>
 
 
