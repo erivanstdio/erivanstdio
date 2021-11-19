@@ -5,7 +5,7 @@
 
 <p align="center">
 
-  <a href=https://www.linkedin.com/in/erivanbrunno%3E
+  <a href=https://www.linkedin.com/in/erivanbrunno>
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
   </a>
 
