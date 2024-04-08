@@ -15,7 +15,6 @@
   <p align="center">
     <a href='https://github.com/anuraghazra/github-readme-stats'> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erivanstdio&layout=compact&theme=gruvbox" style="max-width:100%;" width="300">       </a>
-    <p align="center">
       
   <img src="https://img.shields.io/badge/TypeScript-000?&style=for-the-badge&logo=TypeScript&logoColor=blue" alt="TypeScript"/><img src="https://img.shields.io/badge/JavaScript-000?&style=for-the-badge&logo=JavaScript&logoColor=yellow" alt="javascript"/><img src="https://img.shields.io/badge/dart-000?style=for-the-badge&logo=dart&logoColor=cyan" alt="dart"/>
   </p>
