@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
   </a>
 
-  <h4 align="center">Currently working on hybrid mobile tecnologies,<br/>such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" alt="React Native"/> lib. <br/>Also giving a few steps into <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=lightblue" width="70" alt="Flutter"/></h4>
+  <h4 align="center">Currently working on hybrid mobile tecnologies,<br/>such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" alt="React Native"/> lib.</h4> <br/><h5 align="center">Also giving a few steps into <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=lightblue" width="70" alt="Flutter"/></h5>
   <h5 align="center">Constant learner, always trying to improve!<br/><br/></h5>
 
 </p>
