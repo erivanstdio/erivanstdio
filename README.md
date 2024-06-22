@@ -4,7 +4,7 @@
   <p align="center">
 
   <p align="center">
-  <a href="https://www.linkedin.com/in/erivanbrunno" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/erivanbrunno" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" /></a>
   </p>
 
   <h4 align="center">Currently working on hybrid mobile tecnologies,<br />such as projects using <img
