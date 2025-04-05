@@ -15,7 +15,7 @@
   <h5 align="center">Also giving a few steps into <a href="https://flutter.dev/"><img
       src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=lightblue" width="70"
       alt="Flutter" /></a> and <a href="https://nestjs.com"><img
-      src="https://img.shields.io/badge/Nest-20232A?style=for-the-badge&logo=nest&logoColor=FFCCCC" width="50"
+      src="https://img.shields.io/badge/Nest-20232A?style=for-the-badge&logo=javascript&logoColor=FFCCCC" width="50"
       alt="Nest" /></a></h5>
   <h5 align="center">Constant learner, always trying to improve!<br /><br /></h5>
 
