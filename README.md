@@ -10,7 +10,7 @@
   <h4 align="center">Currently working on hybrid mobile tecnologies,<br />such as projects using <a href="https://reactnative.dev/"><img
       src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100"
       alt="React Native" /></a> lib and <a href="https://reactnative.dev/"><img
-      src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100"
+      src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=react&logoColor=FFFFFF" width="100"
       alt="Next" /></a> framework.</h4>
   <h5 align="center">Also giving a few steps into <a href="https://flutter.dev/"><img
       src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=lightblue" width="70"
